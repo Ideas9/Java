@@ -73,7 +73,7 @@
           <h1 class="alert alert-success">Your app is ready!</h1>
           
           <div class="page-header">
-            <h1>Get started with your Java Web-Worker Template</h1>
+            <h1>Hello world</h1>
           </div>
           
           <div style="margin-bottom: 20px">
