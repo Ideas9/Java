@@ -56,7 +56,7 @@
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a href="/" class="brand">Java Web-Worker Template</a>
+          <a href="/" class="brand">Welcome to Frist learning</a>
           <!--
           IMPORTANT:
           This is Heroku specific markup. Remove to customize.
